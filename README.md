@@ -1,3 +1,4 @@
 # odin-recipes
 
-Odin project 1! Recipe website.
+The Odin Project.
+Small repo about food recipes of basic HTML pages.
