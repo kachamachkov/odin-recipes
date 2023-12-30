@@ -1,3 +1,3 @@
 # odin-recipes
-Test repo!
-Hello Odin!qweqwewq
+
+Odin project 1! Recipe website.
