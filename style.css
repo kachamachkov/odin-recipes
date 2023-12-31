@@ -1,0 +1,13 @@
+* {
+	background-color: lightgrey;
+}
+
+h1 {
+	font: 700;
+	font-family: monospace;
+	font-size: 40px;
+}
+ul {
+	font-family: monospace;
+	font-size: 34px;
+}
